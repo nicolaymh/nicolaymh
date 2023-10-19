@@ -4,15 +4,24 @@
   <h1 align="center">Hi, I'm <span style="color: blue;"><strong>Nicolay</strong></span> 👋</h1>
 
   <h4 align="center"><i>I am a telecommunications engineer and a passionate full stack web developer from Colombia, I like to learn new things every day and put them into practice. 👇👇👇👇 <i/></h4>
+
+---
+
 </div
 
 ---
 
-### 👨‍💻 About me :
+<br>
+
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <span style="color: yellow;"><strong>About me :</strong></span>
 
 -  📡 Telecommunications engineer.
 -  🧑‍💻 Full-Stack developer - MERN experience.
 -  🐍 Learning Python.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="left">
   <h3>🔨 Languages and Tools :</h3>
@@ -39,4 +48,4 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolaymh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=codeSTACKr)
