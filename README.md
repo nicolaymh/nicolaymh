@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="left">
-  <h3>🔨 Languages and Tools :</h3>
+  <h3>🔨 Languages and Tools :</h3><br>
   <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain.svg" title="HTML5" alt="html" width="40" height="40" />&nbsp
     <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="css" width="40" height="40" />&nbsp
@@ -41,12 +41,12 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" title="AWS-EC2" alt="aws-ec2" width="40" height="40" />&nbsp
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--o9jchbR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://day-journal.com/memo/images/logo/aws/s3.png" title="AWS-S3" alt="aws-s3" width="40" height="40" />&nbsp
     <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" title="CLOUDINARY" alt="cloudinary" width="40" height="40" />&nbsp
-  </div>
+  </div><br>  
 </div>
 
 ---
 
-### 📊 My Stats :
+# 📊 My Stats :
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=codeSTACKr" alt="Perfil de GitHub" />
