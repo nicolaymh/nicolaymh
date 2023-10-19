@@ -48,4 +48,6 @@
 
 ### 📊 My Stats :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=codeSTACKr)
+<div align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=codeSTACKr)
+</div>
