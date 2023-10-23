@@ -15,6 +15,8 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+
 <br>
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <span style="color: yellow;"><strong>About me :</strong></span>
@@ -25,7 +27,7 @@
 -  📀 Some projects: | "[Gamer_Store](https://gamerstore.nimohe.dev/ "Gamer Store") - [Github](https://github.com/nicolaymh/On-line-shop/ "Gamer Store github")" | "[Don't_Walk](https://buyandsell.netlify.app/ "Don't Walk") - [Github](https://github.com/nicolaymh/Buying-and-selling/ "Don't Walk Github")" | "[Todolist](https://simpletodolistreact.netlify.app// "Todolist
 ") - [Github](https://github.com/nicolaymh/Todolist/ "Todolist
  Github")".
--  🐳 Learning Docker
+-  🐳 Learning Docker.
 
 <br>
 
