@@ -24,7 +24,8 @@
 -  💻 Ask me about MERN stack, HTML, CSS, JavaScript, TypeScript, NodeJs.
 -  📀 Some projects: | "[Gamer_Store](https://gamerstore.nimohe.dev/ "Gamer Store") - [Github](https://github.com/nicolaymh/On-line-shop/ "Gamer Store github")" | "[Don't_Walk](https://buyandsell.netlify.app/ "Don't Walk") - [Github](https://github.com/nicolaymh/Buying-and-selling/ "Don't Walk Github")" | "[Todolist](https://simpletodolistreact.netlify.app// "Todolist
 ") - [Github](https://github.com/nicolaymh/Todolist/ "Todolist
- Github")"
+ Github")".
+-  🐳 Learning Docker
 
 <br>
 
