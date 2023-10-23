@@ -9,9 +9,9 @@
 
 ---
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="200" style="display: block; margin: 0 auto;" />
-</div>
+</p>
 
 ---
 
