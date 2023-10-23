@@ -17,8 +17,9 @@
 
 <br>
 
-<div>
-  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <h3 style="color: yellow;"><strong>About me :</strong></h3>
+<div style="display: flex">
+  <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
+  <h3 style="color: yellow;">&nbsp<strong>About me :</strong></h3>
 </div>
 
 -  📡 Telecommunications engineer.
