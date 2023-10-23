@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="200" />
+  <img src="https://res.cloudinary.com/dptaul20s/image/upload/v1698101138/e36ec678-7984-4cdd-8e4c-a3932772ff8e_obehzo.gif" style="width: 100%" /><br><br>
 
   <h1 align="center">Hi, I'm <span style="color: blue;"><strong>Nicolay</strong></span> 👋</h1>
 
@@ -8,6 +8,8 @@
 ---
 
 </div
+
+  <img src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="200" />
 
 ---
 
