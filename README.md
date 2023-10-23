@@ -55,6 +55,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=codeSTACKr" alt="Perfil de GitHub" />
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolaymh&theme=codeSTACKr)
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolaymh&theme=codeSTACKr" alt="Perfil de GitHub" />
   
