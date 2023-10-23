@@ -33,7 +33,7 @@
 <h3 style="color: yellow;" align="left">Connect with me:</h3>
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2351/PNG/96/logo_github_icon_143196.png" title="GITHUB" alt="github" width="40" height="40" />&nbsp
-</div>
+</div><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
