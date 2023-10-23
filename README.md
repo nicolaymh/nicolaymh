@@ -5,7 +5,7 @@
 
   <h4 align="center"><i>I am a telecommunications engineer and a passionate full stack web developer from Colombia, I like to learn new things every day and put them into practice. 👇👇👇👇 <i/></h4>
 
-</div
+</div>
 
 ---
 
