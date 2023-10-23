@@ -17,8 +17,8 @@
 
 <br>
 
-<div style="display: flex">
-  <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
+<div align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
   <h3 style="color: yellow;">&nbsp<strong>About me :</strong></h3>
 </div>
 
