@@ -16,8 +16,9 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <span style="color: yellow;"><strong>About me :</strong></span>
 
 -  📡 Telecommunications engineer.
--  🧑‍💻 Full-Stack developer - MERN experience.
--  🐍 Learning Python.
+-  📊 I´m currently working on Improving my skills
+-  💻 Ask me about MERN stack, HTML, CSS, JavaScript, TypeScript, NodeJs.
+-  📀 Some projects: [Gamer Store](https://gamerstore.nimohe.dev/ "Gamer Store"), [Don't Walk](https://buyandsell.netlify.app/ "Don't Walk")
 
 <br>
 
