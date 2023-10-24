@@ -33,8 +33,8 @@
   <a href="https://github.com/nicolaymh" target="blank">
     <img align="center" src="https://res.cloudinary.com/dptaul20s/image/upload/v1698109172/github_xqbbhc.png" alt="my_github_profile" height="30" width="30" />
   </a>
-  <a href="https://github.com/nicolaymh" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="38" width="38" />
+  <a href="github-profile" target="blank">
+    <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="40" width="40" />
   </a>
 </div><br>
 
