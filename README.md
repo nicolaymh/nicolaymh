@@ -30,10 +30,10 @@
 
 <h3 style="color: yellow;" align="left">Connect with me :</h3>
   <a href="https://github.com/nicolaymh" target="blank">
-    <img align="center" src="https://res.cloudinary.com/dptaul20s/image/upload/v1698109172/github_xqbbhc.png" alt="my_github_profile" height="30" width="30" />
+    <img align="center" src="https://res.cloudinary.com/dptaul20s/image/upload/v1698109172/github_xqbbhc.png" alt="my_github_profile" height="30" width="40" />
   </a>&nbsp
   <a href="https://github.com/nicolaymh" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="30" width="40" />
   </a>&nbsp
 
 <br>
