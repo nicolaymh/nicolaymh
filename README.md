@@ -29,14 +29,14 @@
 <br>
 
 <h3 style="color: yellow;" align="left">Connect with me :</h3>
-<div>
   <a href="https://github.com/nicolaymh" target="blank">
     <img align="center" src="https://res.cloudinary.com/dptaul20s/image/upload/v1698109172/github_xqbbhc.png" alt="my_github_profile" height="30" width="30" />
   </a>&nbsp
   <a href="https://github.com/nicolaymh" target="blank">
     <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="40" width="40" />
   </a>&nbsp
-</div><br>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
