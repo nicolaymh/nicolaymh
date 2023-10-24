@@ -30,9 +30,11 @@
 
 <br>
 
-<h3 style="color: yellow;" align="left">Connect with me:</h3>
+<h3 style="color: yellow;" align="left">Connect with me :</h3>
 <div>
-  <img src="https://cdn.icon-icons.com/icons2/2351/PNG/96/logo_github_icon_143196.png" title="GITHUB" alt="github" width="40" height="40" />&nbsp
+ <p align="left">
+  <a href="https://github.com/nicolaymh" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2351/PNG/96/logo_github_icon_143196.png" alt="my_profile-github" height="30" width="40" /></a>
+</p>
 </div><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
