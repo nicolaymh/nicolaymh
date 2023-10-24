@@ -23,9 +23,7 @@
 -  📡 Telecommunications engineer.
 -  📊 I´m currently working on Improving my skills
 -  💻 Ask me about MERN stack, HTML, CSS, JavaScript, TypeScript, NodeJs.
--  📀 Some projects: | "[Gamer_Store](https://gamerstore.nimohe.dev/ "Gamer Store") - [Github](https://github.com/nicolaymh/On-line-shop/ "Gamer Store github")" | "[Don't_Walk](https://buyandsell.netlify.app/ "Don't Walk") - [Github](https://github.com/nicolaymh/Buying-and-selling/ "Don't Walk Github")" | "[Todolist](https://simpletodolistreact.netlify.app// "Todolist
-") - [Github](https://github.com/nicolaymh/Todolist/ "Todolist
- Github")".
+-  📀 Some projects: | "[Gamer_Store](https://gamerstore.nimohe.dev/ "Gamer Store") - [Github] (https://github.com/nicolaymh/On-line-shop/ "Gamer Store github")" | "[Don't_Walk](https://buyandsell.netlify.app/ "Don't Walk") - [Github](https://github.com/nicolaymh/Buying-and-selling/ "Don't Walk Github")".
 -  🐳 Learning Docker.
 
 <br>
@@ -33,7 +31,7 @@
 <h3 style="color: yellow;" align="left">Connect with me :</h3>
 <div>
  <p align="left">
-  <a href="https://github.com/nicolaymh" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2351/PNG/96/logo_github_icon_143196.png" alt="my_profile-github" height="30" width="40" /></a>
+  <a href="https://github.com/nicolaymh" target="blank"><img align="center" src="https://res.cloudinary.com/dptaul20s/image/upload/v1698109172/github_xqbbhc.png" alt="my_profile-github" height="30" width="30" /></a>
 </p>
 </div><br>
 
