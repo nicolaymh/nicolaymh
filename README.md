@@ -71,11 +71,11 @@
 # 📊 My Stats :
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=vision_friendly_dark" alt="Perfil de GitHub" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=nord_bright" alt="Perfil de GitHub" />
 </p>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolaymh&theme=vision_friendly_dark" alt="Perfil de GitHub" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolaymh&theme=nord_bright" alt="Perfil de GitHub" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolaymh&theme=vision_friendly_dark" alt="img 2" style="display:inline; margin:10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolaymh&theme=nord_bright" alt="img 2" style="display:inline; margin:10px;" />
 </div>
