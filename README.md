@@ -32,7 +32,7 @@
 
 <h3 style="color: yellow;" align="left">Connect with me :</h3>
   <a href="https://github.com/nicolaymh" target="blank">
-    <img align="center" src="https://as2.ftcdn.net/v2/jpg/04/66/13/91/1000_F_466139129_tZQghZMI9tBsXj3KI6R5hszc6s0QT1VF.jpg" alt="my_linkedin_profile" height="70" width="70" />
+    <img align="center" src="https://as2.ftcdn.net/v2/jpg/04/66/13/91/1000_F_466139129_tZQghZMI9tBsXj3KI6R5hszc6s0QT1VF.jpg" alt="my_CV" height="70" width="70" />
   </a>&nbsp
   <a href="https://www.linkedin.com/in/nicolay-moreno/" target="blank">
     <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="100" width="100" />
