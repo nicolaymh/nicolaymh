@@ -26,7 +26,7 @@
 -  📊 I´m currently working on Improving my skills
 -  💻 Ask me about MERN stack, HTML, CSS, JavaScript, TypeScript, NodeJs.
 -  📀 Some project demos: | "[Gamer_Store](https://gamerstore.nimohe.dev/ "Gamer Store") - [Github](https://github.com/nicolaymh/On-line-shop/ "Gamer Store github")" | "[Don't_Walk](https://buyandsell.netlify.app/ "Don't Walk") - [Github](https://github.com/nicolaymh/Buying-and-selling/ "Don't Walk Github")" | "[Powertel](https://powertel.shop/ "Powertel") - [Github](https://github.com/nicolaymh/powertel/ "Powertel")" | "[To-Do-List](https://simpletodolistreact.netlify.app/ "To-Do-List") - [Github](https://github.com/nicolaymh/Todolist "To-do-list github")".
--  Learning Python.
+-  :snake: Learning Python.
 
 <br>
 
