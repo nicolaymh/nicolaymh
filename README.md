@@ -26,7 +26,7 @@
 -  📊 I´m currently working on Improving my skills
 -  💻 Ask me about MERN stack, HTML, CSS, JavaScript, TypeScript, NodeJs.
 -  📀 Some project demos: | "[Gamer_Store](https://gamerstore.nimohe.dev/ "Gamer Store") - [Github](https://github.com/nicolaymh/On-line-shop/ "Gamer Store github")" | "[Don't_Walk](https://buyandsell.netlify.app/ "Don't Walk") - [Github](https://github.com/nicolaymh/Buying-and-selling/ "Don't Walk Github")" | "[Powertel](https://powertel.shop/ "Powertel") - [Github](https://github.com/nicolaymh/powertel/ "Powertel")" | "[To-Do-List](https://simpletodolistreact.netlify.app/ "To-Do-List") - [Github](https://github.com/nicolaymh/Todolist "To-do-list github")".
--  :snake: Learning Python.
+
 
 <br>
 
@@ -36,7 +36,7 @@
   </a>&nbsp
   <a href="https://www.linkedin.com/in/nicolay-moreno/" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=80&id=MR3dZdlA53te&format=png" alt="my_linkedin_profile" height="100" width="100" />
-  </a>&nbsp  
+  </a>&nbsp
   <a href="https://github.com/nicolaymh" target="_blank">
     <img align="center" src="https://res.cloudinary.com/dptaul20s/image/upload/v1698109172/github_xqbbhc.png" alt="my_github_profile" height="80" width="80" />
   </a>&nbsp
@@ -63,7 +63,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" title="AWS-EC2" alt="aws-ec2" width="40" height="40" />&nbsp
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--o9jchbR7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://day-journal.com/memo/images/logo/aws/s3.png" title="AWS-S3" alt="aws-s3" width="40" height="40" />&nbsp
     <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" title="CLOUDINARY" alt="cloudinary" width="40" height="40" />&nbsp
-  </div><br>  
+  </div><br>
 </div>
 
 ---
@@ -76,6 +76,6 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicolaymh&theme=highcontrast" alt="Perfil de GitHub" />
-  
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolaymh&theme=highcontrast" alt="img 2" style="display:inline; margin:10px;" />
 </div>
