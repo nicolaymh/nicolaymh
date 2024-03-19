@@ -70,8 +70,6 @@
 # 📊 My Stats :
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=highcontrast" alt="Perfil de GitHub" />
-
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolaymh&theme=transparent)
 </p>
 
