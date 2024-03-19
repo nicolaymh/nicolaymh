@@ -3,7 +3,11 @@
 
   <h1 align="center">Hi, I'm <span style="color: blue;"><strong>Nicolay</strong></span> 👋</h1>
 
-![](https://komarev.com/ghpvc/?username=nicolaymh&label=PROFILE+VIEWS&style=plastic&color=blue&base=100)
+
+
+![](https://komarev.com/ghpvc/?username=nicolaymh&label=PROFILE+VIEWS&style=plastic&color=blue&base=100&abbreviated=true)
+
+
 
   <h4 align="center"><i>I am a telecommunications engineer and a passionate full stack web developer from Colombia, I like to learn new things every day and put them into practice. 👇👇👇👇 <i/></h4>
 
